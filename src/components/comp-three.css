@@ -1,0 +1,25 @@
+.simpleCounter {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: burlywood;
+    border: 3px double brown;
+}
+
+.simpleCounter button {
+    margin: 0;
+    padding: 5px 10px;
+    background-color: yellow;
+    color:crimson;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+.simpleCounter p {
+    margin: 0;
+    padding: 5px 10px;
+    text-align: center;
+    color:forestgreen;
+    font-weight: 500;
+}
